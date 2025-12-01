@@ -1,5 +1,5 @@
 # Desafio-Final-Ethical-Hacking-Capture-The-Flag
-🛡️ Pentest – Ambiente Simulado TechCorp Solutions
+## 🛡️ Pentest – Ambiente Simulado TechCorp Solutions
 
 Este repositório contém o relatório e as evidências referentes ao teste de intrusão (pentest) realizado no ambiente simulado da TechCorp Solutions, como parte de um treinamento autorizado em cibersegurança.
 
@@ -7,7 +7,7 @@ O objetivo deste projeto é demonstrar, na prática, como falhas comuns em siste
 
 
 
-📌 Sobre o Ambiente
+## 📌 Sobre o Ambiente
 
 Empresa (simulada): TechCorp Solutions
 
@@ -33,7 +33,7 @@ Testes de XSS
 
 
 
-🚩 Flags Encontradas
+## 🚩 Flags Encontradas
 
 Durante o pentest foram identificadas 8 vulnerabilidades, cada uma representada por uma flag disponibilizada no ambiente simulado. Todas elas foram analisadas, exploradas e documentadas:
 
@@ -66,7 +66,7 @@ Recomendações detalhadas
 Conclusão geral
 
 
-🎯 Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 
 Este repositório foi criado com propósito educacional para:
 
@@ -78,7 +78,7 @@ Ajudar estudantes e iniciantes a entender como funciona uma análise completa
 
 Servir como portfólio técnico na área de cibersegurança
 
-🧰 Ferramentas Utilizadas
+## 🧰 Ferramentas Utilizadas
 
 Nmap → Varredura de portas e enumeração de serviços
 
@@ -95,7 +95,7 @@ SQL Injection Manual → Bypass de login e dump de dados
 Payloads XSS → Exploração client-side
 
 
-📚 Aprendizados
+## 📚 Aprendizados
 
 Ao concluir este projeto foi possível reforçar:
 
@@ -112,9 +112,9 @@ Boas práticas de documentação em segurança
 Cadeias de ataque e pivotamento entre vulnerabilidades
 
 
-📌 Aviso Importante
+## 📌 Aviso Importante
 
 Este projeto foi realizado em um ambiente completamente autorizado e simulado.
-Nunca execute testes de intrusão em sistemas reais sem permissão formal.
+Nunca execute testes de intrusão em sistemas reais sem permissão.
 
-pdf com o relatório logo acima
+### pdf com o relatório logo acima. ☝️
