@@ -5,6 +5,8 @@ Este repositório contém o relatório e as evidências referentes ao teste de i
 
 O objetivo deste projeto é demonstrar, na prática, como falhas comuns em sistemas web e serviços expostos podem ser descobertas, exploradas e documentadas de forma profissional.
 
+
+
 📌 Sobre o Ambiente
 
 Empresa (simulada): TechCorp Solutions
@@ -28,6 +30,8 @@ FTP client
 Testes manuais de SQL Injection
 
 Testes de XSS
+
+
 
 🚩 Flags Encontradas
 
@@ -61,6 +65,7 @@ Recomendações detalhadas
 
 Conclusão geral
 
+
 🎯 Objetivo do Projeto
 
 Este repositório foi criado com propósito educacional para:
@@ -89,6 +94,7 @@ SQL Injection Manual → Bypass de login e dump de dados
 
 Payloads XSS → Exploração client-side
 
+
 📚 Aprendizados
 
 Ao concluir este projeto foi possível reforçar:
@@ -104,6 +110,7 @@ Leitura de evidências e análise de impacto
 Boas práticas de documentação em segurança
 
 Cadeias de ataque e pivotamento entre vulnerabilidades
+
 
 📌 Aviso Importante
 
