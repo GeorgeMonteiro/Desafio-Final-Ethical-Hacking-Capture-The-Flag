@@ -1,4 +1,4 @@
-# Desafio-Final-Ethical-Hacking-Capture-The-Flag
+# Desafio-Final-Ethical-Hacking-CTF
 ## 🛡️ Pentest – Ambiente Simulado TechCorp Solutions
 
 Este repositório contém o relatório e as evidências referentes ao teste de intrusão (pentest) realizado no ambiente simulado da TechCorp Solutions, como parte de um treinamento autorizado em cibersegurança.
